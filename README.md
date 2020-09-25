@@ -1,1 +1,2 @@
-# geo-space
+# Geo Space
+## Team Project
